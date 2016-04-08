@@ -41,3 +41,7 @@ nuget/*/lib/
 *.*~
 *.vs10x
 *.docstates
+packages/
+*.project.lock.json
+project.lock.json
+.vs
